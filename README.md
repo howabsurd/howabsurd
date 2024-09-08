@@ -28,6 +28,7 @@
 - Web Content Writing
 </details>
 
+
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
